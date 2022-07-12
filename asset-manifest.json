@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/alpha0212/twitter/static/css/main.55bfdf87.chunk.css",
-    "main.js": "/alpha0212/twitter/static/js/main.4b112118.chunk.js",
-    "main.js.map": "/alpha0212/twitter/static/js/main.4b112118.chunk.js.map",
-    "runtime-main.js": "/alpha0212/twitter/static/js/runtime-main.8a720844.js",
-    "runtime-main.js.map": "/alpha0212/twitter/static/js/runtime-main.8a720844.js.map",
-    "static/js/2.5aa99344.chunk.js": "/alpha0212/twitter/static/js/2.5aa99344.chunk.js",
-    "static/js/2.5aa99344.chunk.js.map": "/alpha0212/twitter/static/js/2.5aa99344.chunk.js.map",
-    "index.html": "/alpha0212/twitter/index.html",
-    "precache-manifest.817c5b7e477a0e354ea136da02a9dd61.js": "/alpha0212/twitter/precache-manifest.817c5b7e477a0e354ea136da02a9dd61.js",
-    "service-worker.js": "/alpha0212/twitter/service-worker.js",
-    "static/css/main.55bfdf87.chunk.css.map": "/alpha0212/twitter/static/css/main.55bfdf87.chunk.css.map",
-    "static/js/2.5aa99344.chunk.js.LICENSE.txt": "/alpha0212/twitter/static/js/2.5aa99344.chunk.js.LICENSE.txt"
+    "main.css": "/twitter/static/css/main.55bfdf87.chunk.css",
+    "main.js": "/twitter/static/js/main.4b112118.chunk.js",
+    "main.js.map": "/twitter/static/js/main.4b112118.chunk.js.map",
+    "runtime-main.js": "/twitter/static/js/runtime-main.a8bc0b4f.js",
+    "runtime-main.js.map": "/twitter/static/js/runtime-main.a8bc0b4f.js.map",
+    "static/js/2.2ec8f731.chunk.js": "/twitter/static/js/2.2ec8f731.chunk.js",
+    "static/js/2.2ec8f731.chunk.js.map": "/twitter/static/js/2.2ec8f731.chunk.js.map",
+    "index.html": "/twitter/index.html",
+    "precache-manifest.c56ac351813bbeabf31d003bf09b819e.js": "/twitter/precache-manifest.c56ac351813bbeabf31d003bf09b819e.js",
+    "service-worker.js": "/twitter/service-worker.js",
+    "static/css/main.55bfdf87.chunk.css.map": "/twitter/static/css/main.55bfdf87.chunk.css.map",
+    "static/js/2.2ec8f731.chunk.js.LICENSE.txt": "/twitter/static/js/2.2ec8f731.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a720844.js",
-    "static/js/2.5aa99344.chunk.js",
+    "static/js/runtime-main.a8bc0b4f.js",
+    "static/js/2.2ec8f731.chunk.js",
     "static/css/main.55bfdf87.chunk.css",
     "static/js/main.4b112118.chunk.js"
   ]
